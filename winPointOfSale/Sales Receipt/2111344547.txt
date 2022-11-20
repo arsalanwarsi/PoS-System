@@ -1,0 +1,13 @@
+		     Point Of Sale
+
+		Invoice No.:   2111344547
+		Customer Name: Aliyan
+		Purchase Date: 21-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+LUX Soap                                  3           67.00          201.00
+LUX Soap                                  1          130.00          130.00
+Nationam Salt                             1          105.00          105.00
+
+		  Total Price: 436.00

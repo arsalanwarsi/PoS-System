@@ -1,0 +1,16 @@
+		     Point Of Sale
+
+		Invoice No.:   2713562045
+		Customer Name: Arsalan
+		Purchase Date: 27-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+Pickle Mix                                1          159.00          159.00
+Mezan Cooking Oil                         2          705.00         1410.00
+Eva Cooking Oil                           1          795.00          795.00
+Dalda Cooking Oil                         1          795.00          795.00
+Cornflour                                 1          103.00          103.00
+Maida                                     1          128.00          128.00
+
+		  Total Price: 3390.00

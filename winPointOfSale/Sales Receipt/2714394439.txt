@@ -1,0 +1,20 @@
+		     Point Of Sale
+
+		Invoice No.:   2714394439
+		Customer Name: Walk in Customer
+		Purchase Date: 27-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+BBQ Sauce                                 1          590.00          590.00
+Pickle Mix                                1          159.00          159.00
+Mezan Cooking Oil                         3          705.00         2115.00
+Colgate Mouthwash                         1          165.00          165.00
+Colgate Toothpaste                        1          349.00          349.00
+Tang Mango                                2          168.00          336.00
+Tang Pineapple                            1          189.00          189.00
+LUX Soap                                  1           67.00           67.00
+LUX Soap                                  4          130.00          520.00
+Dove Shampoo                              1          274.00          274.00
+
+		  Total Price: 4764.00
