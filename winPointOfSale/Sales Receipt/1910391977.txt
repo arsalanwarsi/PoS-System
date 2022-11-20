@@ -1,0 +1,16 @@
+		     Point Of Sale
+
+		Invoice No.:   1910391977
+		Customer Name: Walk in Customer
+		Purchase Date: 19-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+BBQ Sauce                                 1          590.00          590.00
+Pickle Mix                                1          159.00          159.00
+Pickle Mango                              1          159.00          159.00
+Match Box                                 1           25.00           25.00
+Sunsilk Shampoo                           3          279.00          837.00
+Chocolate                                 1          279.00          279.00
+
+		  Total Price: 2049.00

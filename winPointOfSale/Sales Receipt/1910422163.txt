@@ -1,0 +1,13 @@
+		     Point Of Sale
+
+		Invoice No.:   1910422163
+		Customer Name: Aliyan
+		Purchase Date: 19-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+BBQ Sauce                                 1          590.00          590.00
+Match Box                                 5           25.00          125.00
+Apple Jam                                 1          180.00          180.00
+
+		  Total Price: 895.00

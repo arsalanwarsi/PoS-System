@@ -1,0 +1,14 @@
+		     Point Of Sale
+
+		Invoice No.:   2111342874
+		Customer Name: Walk in Customer
+		Purchase Date: 21-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+Pickle Mango                              1          159.00          159.00
+Red Lobia                                 1          173.00          173.00
+Maida                                     2          128.00          256.00
+Olpers Milk                               1         1440.00         1440.00
+
+		  Total Price: 2028.00

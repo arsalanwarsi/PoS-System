@@ -1,0 +1,17 @@
+		     Point Of Sale
+
+		Invoice No.:   2111333659
+		Customer Name: Hamza
+		Purchase Date: 07-Jun-21
+
+Product Name                    |  Quantity  |  Sales Price  |  Total Price
+
+BBQ Sauce                                 1          590.00          590.00
+Chocolate                                 1          279.00          279.00
+supreme dates                             2           78.00          156.00
+Tang Mango                                1          168.00          168.00
+Tang Mosambi                              5          199.00          995.00
+LUX Soap                                  1           62.00           62.00
+Tresemme Smooth                           1          259.00          259.00
+
+		  Total Price: 2509.00

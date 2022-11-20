@@ -1,0 +1,58 @@
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.exe.config
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.exe
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.pdb
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.dll
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.Properties.Resources.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.GenerateResource.cache
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.CopyComplete
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.exe
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.pdb
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.LoginForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.AdminDashboardForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.StaffDashboardFrom.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ManageStockForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.UpdateProductForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ManageCustomerForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.AddStaffForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ChangePasswordForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.SalesReportForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.StockReportForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.ServiceReportForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.NewSalesForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.CustomerSalesForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.CustomerServiceForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csprojAssemblyReference.cache
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.SaleDetailsForm.resources
+C:\Users\Arsalan Warsi\Desktop\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.PointOfSaleForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.AssemblyReference.cache
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.AddStaffForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.AdminDashboardForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ChangePasswordForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ManageCustomerForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.ManageStockForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.SaleDetailsForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.SalesReportForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.AdminForms.UpdateProductForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.LoginForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.PointOfSaleForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.Properties.Resources.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.CustomerSalesForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.CustomerServiceForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.NewSalesForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.ServiceReportForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.StaffDashboardFrom.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.StaffForms.StockReportForm.resources
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.GenerateResource.cache
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.CoreCompileInputs.cache
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.exe
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.pdb
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.exe.config
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.exe
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\winPointOfSale.pdb
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.Design.dll
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.dll
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\M.Siraj.Warsi\Desktop\Warsi\SCD Project\winPointOfSale\winPointOfSale\obj\Debug\winPointOfSale.csproj.CopyComplete
